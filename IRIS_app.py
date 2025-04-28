@@ -2,10 +2,23 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 1,
    "id": "ed3932f6-70d5-44ff-8b91-c32b8f5808c6",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "2025-04-25 22:04:58.360 \n",
+      "  \u001b[33m\u001b[1mWarning:\u001b[0m to view this Streamlit app on a browser, run it with the following\n",
+      "  command:\n",
+      "\n",
+      "    streamlit run C:\\Users\\madhu\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py [ARGUMENTS]\n",
+      "2025-04-25 22:04:58.364 Session state does not function when running a script without `streamlit run`\n"
+     ]
+    }
+   ],
    "source": [
     "import streamlit as st\n",
     "import numpy as np\n",
